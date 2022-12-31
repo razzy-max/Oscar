@@ -1,0 +1,22 @@
+#reg-form {
+    
+    padding: 30px;
+    background: orange;
+    font-family: "verdana", "gill sans";
+    font-size: 250%;
+      
+}
+
+input{
+    font-size: 100%;
+}
+textarea {
+    font-size: 100%;
+}
+#title {
+    text-align: center;
+    padding: 1px;
+    font-size: 200%;
+    background: DodgerBlue;
+}
+
